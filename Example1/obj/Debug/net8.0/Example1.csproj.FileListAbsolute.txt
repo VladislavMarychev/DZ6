@@ -1,0 +1,16 @@
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\bin\Debug\net8.0\Example1.exe
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\bin\Debug\net8.0\Example1.deps.json
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\bin\Debug\net8.0\Example1.runtimeconfig.json
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\bin\Debug\net8.0\Example1.dll
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\bin\Debug\net8.0\Example1.pdb
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\Example1.csproj.AssemblyReference.cache
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\Example1.AssemblyInfoInputs.cache
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\Example1.AssemblyInfo.cs
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\Example1.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\Example1.sourcelink.json
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\Example1.dll
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\refint\Example1.dll
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\Example1.pdb
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\Example1.genruntimeconfig.cache
+C:\Users\Владислав\OneDrive\Desktop\Учеба\DZ6\Example1\obj\Debug\net8.0\ref\Example1.dll
